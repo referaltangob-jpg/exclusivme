@@ -16,10 +16,10 @@ const newGirls = [
 ]
 
 const allGirls = [
-  { id: 5, name: 'Diana',  stars: '★★★★★', price: '180c', bg: '#1a1510', online: true,  badge: null },
-  { id: 6, name: 'Mila',   stars: '★★★★☆', price: '150c', bg: '#12101a', online: false, badge: null },
-  { id: 7, name: 'Julia',  stars: '★★★☆☆', price: '90c',  bg: '#0f1a14', online: true,  badge: null },
-  { id: 8, name: 'Anya',   stars: '★★★★☆', price: '110c', bg: '#1a100f', online: false, badge: null },
+  { id: 5, name: 'Diana',  stars: '★★★★★', price: '180c', bg: '#1a1510', online: true,  badge: '' },
+  { id: 6, name: 'Mila',   stars: '★★★★☆', price: '150c', bg: '#12101a', online: false, badge: '' },
+  { id: 7, name: 'Julia',  stars: '★★★☆☆', price: '90c',  bg: '#0f1a14', online: true,  badge: '' },
+  { id: 8, name: 'Anya',   stars: '★★★★☆', price: '110c', bg: '#1a100f', online: false, badge: '' },
 ]
 
 const topGirls = [
